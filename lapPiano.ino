@@ -20,7 +20,7 @@ void setup() {
   Serial.begin(9600);
   Serial.println("Welcome to the Virtual Keyboard!");
   Serial.println("Notes: A-S-D-F-G-H-J");
-  Serial.println("#: Q-W-E-R-T-Y-U");
+  Serial.println("#: Q-W-R-T-Y-U");
 }
 
 void loop() {
